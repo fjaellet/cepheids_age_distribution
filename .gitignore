@@ -1,3 +1,9 @@
+isochrones/BaSTI/
+simulations/sim_stars_CP*.fits
+
+__pycache__/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
