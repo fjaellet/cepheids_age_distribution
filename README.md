@@ -1,7 +1,7 @@
 # Age distribution of Cepheids in the Milky Way
 ### Analyzing and comparing the observed population with models
 
-Code reproducing the figures in [Anders, Padois, Vilanova et al. (2024)](arXiv link).
+Code reproducing the figures in [Anders, Padois, Vilanova et al. (2024)](https://arxiv.org/abs/2406.06228).
 
 ![XYmap](im/XYmap_cepheids_18kpc_ages.png)
 
